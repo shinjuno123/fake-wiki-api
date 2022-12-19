@@ -66,6 +66,7 @@ You can delete a row of data that matches with :articleTitle.
 ```
 node app.js
 // Test it in postman environment or in any other similar apps.
+// Turn on the local Mongo DB Server
 ```
 
 
